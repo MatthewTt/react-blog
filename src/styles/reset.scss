@@ -1,0 +1,21 @@
+body,
+html,
+#root {
+  height: 100%;
+  background-color: #f8f8f8;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+  outline: none;
+}

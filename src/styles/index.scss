@@ -1,0 +1,13 @@
+@use "./reset.scss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tags {
+  @apply
+  rounded
+  text-white
+  text-sm p-1 bg-blue-400 inline-block  box-border
+  mt-3
+}
